@@ -1,0 +1,11 @@
+tweakerExhaust.wotmod - дым из выхлопной трубы
+tweakerSmokeDead.wotmod - дым из уничтоженных танков
+tweakerShots.wotmod - дым и пламы при выстреле
+tweakerGroundHit.wotmod - Ёффекты взрывов снар€дов
+tweakerArmorHit.wotmod - эффекты попаданий в танк
+tweakerExplosion.wotmod - эффекты уничтожени€ танка
+tweakerStoneHit.wotmod - эффекты попадани€ в объекты
+tweakerSpeedwind.wotmod - эффекты движени€ деревьев
+tweakerSkyFog.wotmod - удаление тумана на картах
+tweakerGraphicsSettings.wotmod - пониженные настройки графики
+tweakerClouds.wotmod - отключение облаков

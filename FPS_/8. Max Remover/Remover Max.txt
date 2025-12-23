@@ -1,0 +1,1 @@
+Removes :Fog,Light bloom,Sun Halo,Sun Glare,Clouds Shadows,Overlay Material,Dirt on Tanks 

@@ -1,0 +1,24 @@
+
+9/19/2024
+
+* HAWGS MODS*
+
+ Step  1   UNZIP DOWNLOAD. 
+
+ Step  2 Pick WHAT TYPE YOU WANT , OPEN FOLDER 
+         OPEN THAT FOLDER
+         COPY THE File  "Hawg_weather.wotmod ".>>
+
+ Step  3  OPEN YOUR WORLD OF TANKS FOLDER, LOCATION.... normally C:\Games\Worldoftanks..
+
+ Step  4  OPEN FOLDER "mods" 
+ 
+ STEP  5  OPEN  PATCH FOLDER : EXAMPLE 0.1.X.X.X OR WHAT EVER UPDATE IS 0.1.X.X.X.
+ 
+ STEP  6  PASTE "Hawg_weather.wotmod" INSIDE OF PATCH FOLDER : NOTE IF ASK REPLACE CLICK YES
+ 
+ STEP  7  RESTART YOUR GAME
+
+
+
+
